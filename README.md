@@ -35,6 +35,9 @@ You can also provide your own training model directory to do the test or use the
 ![sample.jpg](./sample_test.jpg)
 
 ### Reference
-[1] MTCNN paper link: [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/pdf/1604.02878v1.pdf)
+[1] Our IEEE Published paper : [Wider Face Detection Using Multi Task Cascading Neural Networks]
+(https://ieeexplore.ieee.org/document/8971598/)
 
-[2] MTCNN official code: [MTCNN with Caffe](https://github.com/Seanlinx/mtcnn)
+[2] MTCNN paper link: [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/pdf/1604.02878v1.pdf)
+
+[3] MTCNN official code: [MTCNN with Caffe](https://github.com/Seanlinx/mtcnn)
